@@ -44,7 +44,7 @@ body {
     letter-spacing: 0.02em;
     padding: 0 0 30px 0;
     text-align: center;
-    transition: ease 3s;
+    transition: ease 10s;
 }
    
 form {
